@@ -16,7 +16,7 @@ export default function middle() {
           <p className="middle-div_p2">LEARN MORE</p>
         </div>
         <div className="middle-div_2">
-          <img src={Egg} />
+          <img className="egg" src={Egg} />
         </div>
       </div>
 
