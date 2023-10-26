@@ -1,0 +1,35 @@
+.middle-div_2 {
+  width:100%;
+
+  /* background: tomato; */
+}
+.middle-div {
+  display: flex;
+  flex: row;
+}
+.middle-div_1 {
+  display: flex;
+  flex-direction: column;
+  /* background-color: red; */
+}
+.middle-div_h1{
+    margin-left: 100px;
+}
+.middle-div_p1 {
+  width: 445px;
+  color: #808397;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px; /* 166.667% */
+  letter-spacing: -0.129px;
+  margin-left: 100px;
+}
+.middle-div_p2{
+    margin-left: 100px;
+}
+.tetri{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
